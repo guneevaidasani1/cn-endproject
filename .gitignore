@@ -1,0 +1,9 @@
+# Compiled binaries
+receiver
+sender
+*.exe
+*.o
+
+# Python
+__pycache__/
+*.py[cod]
